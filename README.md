@@ -49,6 +49,13 @@ Here We are, thank you for your time and interest going through this repo. We ar
     <img src="resources/jack_and_the_beanstalk.jpg" alt="Image"/>
 </p>
 
+| *Principle* | *Concepts*                                                                                        |
+|---          |---                                                                                                |
+| Agility     | Fast to pick up <br> Easy to play around <br> time to deliver reduced <br> Integration made easy  |
+| Elasticity  | Plug and play autoscaling / HA of your app                                                        |
+| Flexibility | Pay what you run <br> Redeploy / Destroy <br> Integrate with CI/CD via API's or CLI               |
+| Security    | Best part of it, infrastructure security is managed for me                                        |
+
 ***
 
 ## What do I have ?
