@@ -15,17 +15,35 @@ Here We are, thank you for your time and interest going through this repo. We ar
 ***
 
 ## Hence, what is the idea here ?
-- Deploy Web Application / migrate to AWS with minimal effort, to move towards becoming Cloud Native[1].
+- Deploy Web Application ( / Service ) / migrate to cloud with minimal effort, to move towards becoming Cloud Native[1].
 - Requirements:
     - Fully managed service ( I want to focus on Development and code )
     - No additional pricing other than running resources
     - Future proof / extendable with CI/CD
     - ...
-- Answer:
-    - [Elastic Beanstalk from AWS ?](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
-    <br>Hmm, Name of the service Beanstalk, reminds me on cartoon I used to love to watch when I was kid, Jack and the Beanstalk. 
-    <br>( Although, in 90's in Serbia there were not so many :D )
-        - **But wait, is this my magical beanstalk to the mythical castle of work life balance promised with DevOps automation and running stuff the cloud ?**
+
+***
+
+## Ok, Cloud, Why Cloud and AWS?
+
+| *Principle*   | *Concepts*                                                                                                     |
+|---          |---                                                                                                               |
+| Agility     | Innovation <br> Speed for Experimentation / try and fail Fast                                                    |
+| Elasticity  | Scale on demand <br> No overhead capacity ( What you need / When you need )                                      |
+| Flexibility | Low to no cost to entry <br> Large portfolio of managed services / 3rd Party on Marketplace                      |
+| Security    | Shared responsibility model <br> Industry standard certificiations to achieve different compliance requirements  |
+
+- Natural habitat for DevOps and automation. 
+
+***
+
+## Ok, what can it offer to me to achieve my requirements ?
+
+### Magical Answer:
+- [Elastic Beanstalk from AWS ?](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+  <br>Hmm, Name of the service Beanstalk, reminds me on cartoon I used to love to watch when I was kid, Jack and the Beanstalk. 
+  <br>( Although, in 90's in Serbia there were not so many :D )
+  - **But wait, is this my magical beanstalk to the mythical castle of work life balance promised with DevOps automation and running stuff the cloud ?**
 
 <p align="center">
     <img src="resources/jack_and_the_beanstalk.jpg" alt="Image"/>
