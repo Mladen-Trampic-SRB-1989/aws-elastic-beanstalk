@@ -1,5 +1,8 @@
 # aws-elastic-beanstalk
-Here We are, thank you for your time and interest going through this repo. We are about to make fast pass through Elastic Beanstalk and docker deployment, hope you like my way of learning and sharing in the process.
+Here We are, thank you for your time and interest going through this repo.
+<br>*https://github.com/Mladen-Trampic-SRB-1989/aws-elastic-beanstalk*
+
+<br>We are about to make fast pass through Elastic Beanstalk and docker deployment, hope you like my way of learning and sharing in the process.
 
 ## Just me, setting up expectations right:
 
@@ -26,12 +29,12 @@ Here We are, thank you for your time and interest going through this repo. We ar
 
 ## Ok, Cloud, Why Cloud and AWS?
 
-| *Principle*   | *Concepts*                                                                                                     |
-|---          |---                                                                                                               |
-| Agility     | Innovation <br> Speed for Experimentation / try and fail Fast                                                    |
-| Elasticity  | Scale on demand <br> No overhead capacity ( What you need / When you need )                                      |
-| Flexibility | Low to no cost to entry <br> Large portfolio of managed services / 3rd Party on Marketplace                      |
-| Security    | Shared responsibility model <br> Industry standard certificiations to achieve different compliance requirements  |
+| *Principle* | *Concepts*                                                                                                                                                                                            |
+|---          |---                                                                                                                                                                                                    |
+| Agility     | Innovation <br> Speed for Experimentation / try and fail Fast                                                                                                                                         |
+| Elasticity  | Scale on demand <br> No overhead capacity ( What you need / When you need )                                                                                                                           |
+| Flexibility | Low to no cost to entry <br> Large portfolio of managed services / 3rd Party on Marketplace <br> Regionalization : AWS now spans 69 Availability Zones within 22 geographic regions around the world. |
+| Security    | Shared responsibility model <br> Industry standard certificiations to achieve different compliance requirements                                                                                       |
 
 - Natural habitat for DevOps and automation. 
 
@@ -45,7 +48,7 @@ Here We are, thank you for your time and interest going through this repo. We ar
   <br>( Although, in 90's in Serbia there were not so many :D )
   - **But wait, is this my magical beanstalk to the mythical castle of work life balance promised with DevOps automation and running stuff the cloud ?**
 
-<p align="center">
+<p align="left">
     <img src="resources/jack_and_the_beanstalk.jpg" alt="Image"/>
 </p>
 
